@@ -1,6 +1,18 @@
 # OSN-Project
 
 
+
+This was a team project which comprised of ->
+
+Krishak Aneja
+
+Nidhish Jain 
+
+Saiyam Jain
+
+Varun Gupta
+
+
 ### CLIENT 
 
 
